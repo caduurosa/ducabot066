@@ -1,7 +1,1 @@
-print('duca')
-
-print('bot')
-
-print('066')
-
-print('alterei pra conflitar')
+print('uberheblich alteramento0932487')
